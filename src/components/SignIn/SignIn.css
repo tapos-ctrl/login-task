@@ -1,0 +1,44 @@
+.sign-in-page{
+    width: 519px;
+    height: 586px;
+    margin:0 auto;
+    margin-top: 30px;
+    background: rgba(232, 157, 44, 0.659);
+    padding-top: 20px;
+    color:orangered;
+    padding: 26px;
+}
+.page-title{
+    text-align: center;
+    margin-bottom: -3px;
+}
+.page-title p{
+    margin-top:-10px;
+}
+.sign-in-page p{
+    margin:0;
+    padding:0;
+    margin-top: 19px;
+    margin-bottom: 10px;
+}
+.apple{
+    width: 440px;
+    background: rgb(139, 124, 124);
+}
+.sign{
+    width: 440px;
+}
+.check-btn{
+    background:orange;
+    margin: 5px;
+    color: #fff;
+    border-radius: 30px;
+}
+.section-title {
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.select-class{
+    margin: 0 auto;
+}
