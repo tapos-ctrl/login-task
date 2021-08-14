@@ -1,0 +1,123 @@
+.deshbord{
+    width: 393px;
+    height: 534px;
+    background: #C4C4C4;
+    margin:0 auto;
+
+
+}
+.deshbord-title {
+    height: 38px;
+    background: #EC7B12;
+}
+.deshbord-title h1{
+    width: 99px;
+height: 28px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+color: #E5E5E5;
+padding: 6px;
+}
+.manu-bar{
+    height: 534px;
+    width: 102px;
+    background: #E9922D;
+}
+
+.manu-bar ul {
+    margin-left: 0px;
+    display: contents;
+   
+}
+.manu-bar ul li a{
+    text-decoration: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    padding-left: 8px;
+    color: #000000;
+    
+
+}
+.manu-bar ul li {
+    text-align: left;
+    list-style: none;
+    width: 129%;
+    border-bottom: 1px solid black;
+    margin-left: -11px;
+}
+
+.deshbord-cart h5{
+    width: 51px;
+    height: 14px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+    margin-top: 10px;
+    
+    color: #000000;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+    color: #000000;
+    border-bottom: 1px solid #000000;
+}
+
+.deshbord-cart{
+    width: 290px;
+}
+.search-box-1, .search-box-2{
+    width: 123px;
+    border-left: 1px solid #E5E5E5;
+    border-right: 1px solid #E5E5E5;
+    margin-right: 5px;
+    display: inline-block;
+}
+.search-box-2{
+    float:right;
+}
+.box-title{
+    font-size: 12px;
+    background: #E9922D;
+    padding: 3px 0px;
+    margin: 0px;
+}
+.table-data {
+    font-size: 6px;
+    font-weight: bold;
+    height: 13px;
+    background: white;
+    width: 121px;
+    text-align: left;
+    padding-left: 5px;
+    border-bottom: .5px solid black;
+}
+.table-size{
+    padding: none !important;
+}
+
+.sent-btn {
+    background: #E9922D;
+    height: 20px;
+    font-size: 10px;
+    padding: 0px;
+    width: 100%;
+    border-radius: 0px;
+}
+.table-size {
+    margin-bottom: -4px;
+}
